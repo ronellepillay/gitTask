@@ -1,1 +1,3 @@
-console.log("Git is Awesome!")
+const inputValue = prompt('enter any value')
+
+console.log(inputValue)
