@@ -1,3 +1,5 @@
-const inputValue = prompt('enter any value')
+function userInput() {
+    return prompt('enter any value');
+}
 
-console.log(inputValue)
+console.log(userInput())
